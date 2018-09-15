@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993862945593",
+    "firebase_url": "https://lejr2firebase.firebaseio.com",
+    "project_id": "lejr2firebase",
+    "storage_bucket": "lejr2firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993862945593:android:69b237cab087d0f4",
+        "android_client_info": {
+          "package_name": "com.lejrapp.lejr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993862945593-8vqkahc2d74tenq6ird86v1po1btc3ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lejrapp.lejr2",
+            "certificate_hash": "9a01ddb86cbfa944cb38b2b07fd4eb36b2967ce1"
+          }
+        },
+        {
+          "client_id": "993862945593-47j5aqf01v5o59ic7918r9rap2j9rbm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQc4yICM5avfvHoWG5HG82mXic4924M-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993862945593-47j5aqf01v5o59ic7918r9rap2j9rbm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
