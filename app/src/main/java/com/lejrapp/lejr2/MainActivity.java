@@ -1,5 +1,6 @@
 package com.lejrapp.lejr2;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -29,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 loginButton.setEnabled(false);
                 progressBar.setVisibility(View.VISIBLE);
+
+                Intent intent = new Intent(MainActivity.this, UploadPhotoActivity.class);
+                startActivity(intent);
                 //TODO: Send request, change activity
             }
         });
